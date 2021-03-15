@@ -2,7 +2,7 @@
     "name": "veggie-code",
     "displayName": "Veggie Code",
     "description": "A project management tool to keep users within VSCode.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "icon.png",
     "repository": {
 		"type": "git",
@@ -16,7 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "Veggie-Coders.veggie-code-snippets",
+        "VeggieCoders.veggie-code-snippets",
         "aaron-bond.better-comments"
     ]
 }
