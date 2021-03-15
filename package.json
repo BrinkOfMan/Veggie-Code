@@ -4,6 +4,10 @@
     "description": "A project management tool to keep users within VSCode.",
     "version": "1.0.2",
     "icon": "https://github.com/BrinkOfMan/Veggie-Code/blob/main/icon.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/BrinkOfMan/veggie-code"
+	},
     "publisher": "VeggieCoders",
     "engines": {
         "vscode": "^1.54.0"
