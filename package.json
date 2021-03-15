@@ -1,0 +1,18 @@
+{
+    "name": "veggie-code",
+    "displayName": "Veggie Code",
+    "description": "A project management tool to keep users within VSCode.",
+    "version": "1.0.2",
+    "icon": "https://github.com/BrinkOfMan/Veggie-Code/blob/main/icon.png",
+    "publisher": "VeggieCoders",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Veggie-Coders.veggie-code-snippets",
+        "aaron-bond.better-comments"
+    ]
+}
