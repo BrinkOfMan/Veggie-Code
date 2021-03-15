@@ -2,7 +2,7 @@
     "name": "veggie-code",
     "displayName": "Veggie Code",
     "description": "A project management tool to keep users within VSCode.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "icon.png",
     "repository": {
 		"type": "git",
