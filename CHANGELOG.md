@@ -1,6 +1,8 @@
-# Change Log
+## [1.0.7] - Apr 2, 2021
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Fixed typo in !vhcart where Tab Stops were incorrectly formatted
+
+- Updated README.md to be more descriptive
 
 ## [1.0.5 / 1.0.6] - Mar 18, 2021
 

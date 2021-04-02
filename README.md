@@ -7,4 +7,6 @@ The snippets extension introduces a variety of snippets to allow for quicker for
 
 Snippet prefixes all contain "!v" and will work by hitting the "Tab" key after choosing which prefix to use.
 
+To get started, use "!veggiecode" to see all possible snippets and their descriptions.
+
 Happy managing!
