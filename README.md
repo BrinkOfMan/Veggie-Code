@@ -1,9 +1,13 @@
 # Veggie-Code
 A project management tool developed to keep users within VSCode and organized.
 
+## Description
 This package contains the Veggie Code Snippets extension, as well as the Better Comments formatting extension published by Aaron Bond.
 
+## Usage
 The snippets extension introduces a variety of snippets to allow for quicker formatting of project management text and code organization.
+
+![demo-gif](https://github.com/BrinkOfMan/Veggie-Code/blob/main/VS-demo-workflow.gif)
 
 Snippet prefixes all contain "!v" and will work by hitting the "Tab" key after choosing which prefix to use.
 
