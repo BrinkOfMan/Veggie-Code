@@ -7,7 +7,7 @@ This package contains the Veggie Code Snippets extension, as well as the Better 
 ## Usage
 The snippets extension introduces a variety of snippets to allow for quicker formatting of project management text and code organization.
 
-![demo-gif](https://github.com/BrinkOfMan/Veggie-Code/blob/main/VS-demo-workflow.gif)
+![demo-gif](https://github.com/BrinkOfMan/Veggie-Code/blob/main/img/VS-demo-workflow.gif)
 
 Snippet prefixes all contain "!v" and will work by hitting the "Tab" key after choosing which prefix to use.
 
