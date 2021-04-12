@@ -36,7 +36,7 @@ Snippet prefixes all contain "!v" and will work by hitting the "Tab" key after c
 
 ![!todo](https://github.com/BrinkOfMan/Veggie-Code-Snippets/blob/main/img/vtodo.PNG)
 
-!vbug - document and describe a bug, including the fixing progress
+!vbug - document and describe a bug, including the progress made towards fixing it
 
 ![!vbug](https://github.com/BrinkOfMan/Veggie-Code-Snippets/blob/main/img/vbug.PNG)
 
